@@ -1,7 +1,7 @@
 # YOLOv6 概述
 
 <p align="center">
-  <img src="https://github.com/meituan/YOLOv6/blob/main/assets/banner-YOLO.png" align="middle" width = "1000" />
+  <img src="https://raw.githubusercontent.com/meituan/YOLOv6/main/assets/banner-YOLO.png" align="middle" width = "1000" />
 </p>
 
 简体中文 | [English](README.md)

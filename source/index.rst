@@ -11,7 +11,15 @@ Welcome to YOLOv6's documentation!
    :caption: 开启 YOLOv6 之旅
    
    
-   简要介绍YOLOv6.md
+   YOLOv6概述
+   选型指导
+   10分钟快速上手
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 全流程使用指南
+
+   全流程使用指南/index.rst
 
 .. toctree::
    :maxdepth: 2
